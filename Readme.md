@@ -4,7 +4,7 @@ Implementation of LLM Routing,Graduation Project of City University of Macau.
 
 Existing large language model routing strategies focus on resource allocation optimization, while our RAGRouter framework optimizes the output space of semantic-syntactic feature alignment and knowledge enhancement through RAG vector retrieval enhancement technology.
 
-![image1](C:\Users\Administrator\Desktop\LLM Routing\png\image1.png)
+![image1](https://github.com/thebluecitysky/-/blob/master/png/image1.png)
 
 
 
@@ -19,15 +19,15 @@ Our core features include:
 
 The purpose of the large language model routing strategy model is to optimize the balance between cost and response quality without reducing inference performance.
 
-![image2](C:\Users\Administrator\Desktop\LLM Routing\png\image2.png)
+![image2](https://github.com/thebluecitysky/-/blob/master/png/image2.png)
 
 
 
-![image3](C:\Users\Administrator\Desktop\LLM Routing\png\image3.png)
+![image3](https://github.com/thebluecitysky/-/blob/master/png/image3.png)
 
 As shown in the two figures above, the routing strategy of the large language model------RouteLLM can dynamically select a large model with larger or smaller parameters to answer the question based on the difficulty of the user\'s request.
 
-![image4](C:\Users\Administrator\Desktop\LLM Routing\png\image4.png)
+![image4](https://github.com/thebluecitysky/-/blob/master/png/image4.png)
 
 As shown in the above figure, we build a RAG vector database to implement vector retrieval enhancement to optimize the training of the large language model routing strategy model. For each question entered by the user, by retrieving questions with similar meanings and their routing labels in the vector knowledge base, we can generate context enhancement prompts to guide the fine-tuning of the large model.
 
