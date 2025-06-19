@@ -4,6 +4,8 @@ Implementation of LLM Routing,Graduation Project of City University of Macau.
 
 Existing large language model routing strategies focus on resource allocation optimization, while our RAGRouter framework optimizes the output space of semantic-syntactic feature alignment and knowledge enhancement through RAG vector retrieval enhancement technology.
 
+If you want to know more about the experiment, see RAGRouter test.ipynb in Experiment Log.
+
 ![image1](https://github.com/thebluecitysky/-/blob/master/png/image1.png)
 
 
