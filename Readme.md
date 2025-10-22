@@ -133,7 +133,6 @@ spacy-legacy==3.0.12
 
 spacy-loggers==1.0.5
 
-en-core-web-sm@https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
 
 
 
