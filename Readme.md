@@ -1,6 +1,6 @@
 # RAGRouter: A Retrieval-Augmented Routing Strategy Model for Large Language Model
 
-Implementation of LLM Routing,Graduation Project of City University of Macau.
+Implementation of LLM Routing：a Retrieval-Augmented Routing Strategy Model for Large Language Model
 
 Existing large language model routing strategies focus on resource allocation optimization, while our RAGRouter framework optimizes the output space of semantic-syntactic feature alignment and knowledge enhancement through RAG vector retrieval enhancement technology.
 
