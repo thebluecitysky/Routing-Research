@@ -1,4 +1,4 @@
-# Research on Efficient Reasoning of Large Language Model Based on Routing Strategy 
+# RAGRouter: A Retrieval-Augmented Routing Strategy Model for Large Language Model
 
 Implementation of LLM Routing,Graduation Project of City University of Macau.
 
